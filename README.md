@@ -7,7 +7,7 @@
 - [ ] C
 - [ ] D
 - [x] E (java)
-- [ ] F (java)
+- [x] F (java)
 - [ ] G
 - [ ] H
 - [ ] I
