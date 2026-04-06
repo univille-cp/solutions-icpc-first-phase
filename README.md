@@ -11,8 +11,8 @@
 - [ ] F (java)
 - [ ] G
 - [ ] H
-- [X] I
-- [ ] J (java, python)
+- [ ] I
+- [x] J (java, python)
 - [ ] K
 - [ ] L (java)
 
