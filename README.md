@@ -3,7 +3,7 @@
 
 ## 2025
 
-- [ ] A (python)
+- [x] A (Java, python)
 - [ ] B
 - [ ] C
 - [ ] D
