@@ -1,5 +1,3 @@
-package subregional.ano2025;
-
 import java.util.Scanner;
 
 /**
