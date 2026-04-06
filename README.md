@@ -1,7 +1,7 @@
 # solutions-icpc-first-phase
 
 
-## 2024
+## 2025
 
 - [ ] A (python)
 - [ ] B
